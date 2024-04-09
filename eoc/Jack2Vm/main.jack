@@ -1,0 +1,4 @@
+while(count<100){
+    let count = count + 1;
+    let ax ="hi";
+}

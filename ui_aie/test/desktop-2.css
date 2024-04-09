@@ -1,0 +1,134 @@
+.vector91-removebg-preview-1-icon {
+  position: absolute;
+  top: 374px;
+  left: 609px;
+  width: 1030px;
+  height: 646px;
+  object-fit: cover;
+}
+.rent-a-bike {
+  margin: 0;
+}
+.rent-a-bike-container {
+  position: absolute;
+  top: 176px;
+  left: 68px;
+  font-size: 96px;
+  display: inline-block;
+  width: 778px;
+  height: 327px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-200);
+  width: 1440px;
+  height: 50px;
+}
+.contact1 {
+  position: absolute;
+  top: 11px;
+  left: 1089px;
+}
+.rectangle-group,
+.terms-cond1 {
+  position: absolute;
+  top: 11px;
+  left: 1244px;
+}
+.rectangle-group {
+  top: 974px;
+  left: 0;
+  width: 1440px;
+  height: 50px;
+}
+.explore-an-array {
+  position: absolute;
+  top: 503px;
+  left: 68px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 627px;
+}
+.chainz1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-29xl);
+}
+.about1,
+.bikes1 {
+  position: absolute;
+  top: 3px;
+  left: 713px;
+}
+.bikes1 {
+  left: 874px;
+}
+.ellipse-div,
+.faq1,
+.login {
+  position: absolute;
+  top: 3px;
+  left: 1040px;
+}
+.ellipse-div,
+.login {
+  left: 1171px;
+}
+.ellipse-div {
+  top: 0;
+  left: 1297px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 50px;
+  height: 50px;
+}
+.chainz-group {
+  position: absolute;
+  top: 29px;
+  left: 65px;
+  width: 1347px;
+  height: 67px;
+  font-size: var(--font-size-13xl);
+}
+.desktop-2-child {
+  position: absolute;
+  top: 757px;
+  left: 123px;
+  border-radius: var(--br-xl);
+  background-color: #1a1a1a;
+  width: 334px;
+  height: 78px;
+}
+.explore {
+  position: absolute;
+  top: 768px;
+  left: 202px;
+  font-size: 36px;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 2.54%;
+  width: 2.29%;
+  top: 76.37%;
+  right: 70.83%;
+  bottom: 21.09%;
+  left: 26.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-novamono);
+}
+
